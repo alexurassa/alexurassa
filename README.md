@@ -3,3 +3,4 @@
 </p>
 
 ### Hi there 👋
+I am Fullstack Developer with experience in different web technologies like Django, Angular and much more!!
